@@ -1,10 +1,10 @@
 import React from "react";
 
 const products = [
-  { id: 1, name: "Laptop Pro", price: 1200, image: "/public/images/1.png" },
-  { id: 2, name: "Smartphone X", price: 800, image: "/public/images/2.png" },
-  { id: 3, name: "Wireless Headphones", price: 150, image: "/public/images/3.png" },
-  { id: 4, name: "Smartwatch", price: 250, image: "/public/images/4.png" },
+  { id: 1, name: "Laptop Pro", price: 1200, image: "1.png" },
+  { id: 2, name: "Smartphone X", price: 800, image: "2.png" },
+  { id: 3, name: "Wireless Headphones", price: 150, image: "3.png" },
+  { id: 4, name: "Smartwatch", price: 250, image: "4.png" },
 ];
 
 function App() {
